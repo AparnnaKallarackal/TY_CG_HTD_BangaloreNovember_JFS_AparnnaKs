@@ -1,0 +1,2 @@
+select * 12 as annual_sal
+from emp
